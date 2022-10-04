@@ -23,16 +23,33 @@ I am a freelance front-end developer. I was born and live in Santiago de Chile, 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
     <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://svelte.dev/" target="_blank"> <img src= "https://github.com/sveltejs/svelte/blob/29052aba7d0b78316d3a52aef1d7ddd54fe6ca84/site/static/logo.svg" alt="svelte" width="40" height="40"/> </a>
+  <a href="https://www.pygame.org/news" target="_blank"> <img src= "https://www.pygame.org/ftp/pygame-head-party.png" alt="pygame" width="40" height="40"/> </a> 
   </p>
   
+
 <h3> Technological tools 🛠 </h3>
 
 <p align="center">
   <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  
+  <a href="https://zoom.us/" target="_blank"> <img src="https://cdn.cdnlogo.com/logos/z/2/zoom-app.svg" alt="Zoom" width="40" height="40"/> </a>
+  <a href="https://firebase.google.com/" target="_blank"> <img src="https://cdn.cdnlogo.com/logos/f/67/firebase.svg" alt="Firebase" width="40" height="40"/> </a>
+  <a href="https://www.emailjs.com/" target="_blank"> <img src="https://www.emailjs.com/logo.png" alt="emailjs" width="40" height="40"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.michollo.com/app/deal/324-1578581838484.png" alt="mongodb" width="40" height="40"/> </a>
+   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VSC" width="40" height="40"/> </a>
+    
+    
   </p>
 
+<h3> OS <h3>
+<p align="center">
+  <a href="https://pop.system76.com/" target="_blank"> <img src="https://pop.system76.com/icon-512.png" alt="popos" width="40" height="40"/> </a>
+  <a href="https://www.microsoft.com/es-xl/windows?r=1" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Windows_logo_-_2012.png/800px-Windows_logo_-_2012.png" alt="Windows" width="40" height="40"/> </a>
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://www.pngall.com/wp-content/uploads/5/Linux-Logo-PNG-Download-Image.png" alt="Linux" width="40" height="40"/> </a>
+
+ 
+  </p>
+   
 
 
 <!--
