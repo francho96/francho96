@@ -16,6 +16,7 @@ I was born and live in Santiago de Chile, and I actually studied at the universi
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://racket-lang.org/" target="_blank"> <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Racket-logo.svg/512px-Racket-logo.svg.png" alt="racket" width="40" height="40"/> </a>
   <a href="https://devdocs.io/c/" target="_blank"> <img src= "https://squeezetechcom.files.wordpress.com/2019/06/c.png" alt="C" width="40" height="40"/> </a>
+  <a href="https://devdocs.io/c/" target="_blank"> <img src= "https://seeklogo.com/images/A/azure-sql-database-logo-D7A32C9CD9-seeklogo.com.png" alt="SQL" width="40" height="40"/> </a>
     <br></br>
 </p>
  
@@ -26,6 +27,7 @@ I was born and live in Santiago de Chile, and I actually studied at the universi
     <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://svelte.dev/" target="_blank"> <img src= "https://github.com/sveltejs/svelte/blob/29052aba7d0b78316d3a52aef1d7ddd54fe6ca84/site/static/logo.svg" alt="svelte" width="40" height="40"/> </a>
   <a href="https://www.pygame.org/news" target="_blank"> <img src= "https://www.pygame.org/ftp/pygame-head-party.png" alt="pygame" width="40" height="40"/> </a> 
+   <a href="https://vitejs.dev/" target="_blank"> <img src= "https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667" alt="vite" width="40" height="40"/> </a> 
     <br></br>
   </p>
   
@@ -54,7 +56,7 @@ I was born and live in Santiago de Chile, and I actually studied at the universi
   </p>
    
 
-<h2> Want to contact me? Send me an email</h2>
+<h2> Want to contact me? Send me an email!</h2>
 <h3> franco.barria@usach.cl </h3>
 
 <br></br>
