@@ -28,6 +28,8 @@ I was born and live in Santiago de Chile, and I actually studied at the universi
     <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
     <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://svelte.dev/" target="_blank"> <img src= "https://github.com/sveltejs/svelte/blob/29052aba7d0b78316d3a52aef1d7ddd54fe6ca84/site/static/logo.svg" alt="svelte" width="40" height="40"/> </a>
+   <a href="https://vuejs.org/" target="_blank"> <img src= "https://commons.wikimedia.org/wiki/File:Vue.js_Logo_2.svg" alt="Vue" width="40" height="40"/> </a>
+ <a href="https://angular.io//" target="_blank"> <img src= "https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="Angular" width="40" height="40"/> </a>
   <a href="https://www.pygame.org/news" target="_blank"> <img src= "https://www.pygame.org/ftp/pygame-head-party.png" alt="pygame" width="40" height="40"/> </a> 
    <a href="https://vitejs.dev/" target="_blank"> <img src= "https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667" alt="vite" width="40" height="40"/> </a> 
     <br></br>
